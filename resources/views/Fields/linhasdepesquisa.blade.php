@@ -458,7 +458,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20531" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography"><img src="{{asset('/images/Linha_de_pesquisa/QEEG_small.gi')}}" alt="QEEG - Quantitative electroencephalography"></a>
+                                <a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography"><img src="{{asset('/images/Linha_de_pesquisa/QEEG_small.gif')}}" alt="QEEG - Quantitative electroencephalography"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography">QEEG – Eletroencefalografia quantitativa</a></h3>
                             <div class="summary">
