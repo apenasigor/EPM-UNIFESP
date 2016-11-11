@@ -335,7 +335,7 @@
         <div class="center">
             <div class="content force">
                 <div class="identification column force">
-                    <a class="footer-logo column" href="http://homestead.app" style="margin-right: 0px;">
+                    <a class="footer-logo column" href="{{url('/')}}" style="margin-right: 0px;">
                         <img class="horizontal-logo center" src="{{asset('/images/logo_cinza.png')}}" alt="Centro de Neuromodulação" >
                         <img class="vertical-logo center" src="{{asset('/images/logo_cinza.png')}}" alt="Centro de Neuromodulação">
                     </a>

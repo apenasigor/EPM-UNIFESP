@@ -406,7 +406,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20521" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/TNS')}}" title="TNS - Transcutaneous electrical nerve stimulation"><img src="{{asset('/images/Linha_de_pesquisa/TNS.jpg')}}" alt="TNS - Transcutaneous electrical nerve stimulation"></a>
+                                <a href="{{url('/linhasdepesquisa/TNS')}}" title="TNS - Transcutaneous electrical nerve stimulation"><img src="{{asset('/images/Linha_de_pesquisa/TNS_small.png')}}" alt="TNS - Transcutaneous electrical nerve stimulation"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/TNS')}}" title="TNS - Transcutaneous electrical nerve stimulation">TNS – Estimulação do nervo trigêmeo </a></h3>
                             <div class="summary">
@@ -417,7 +417,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="21543" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/rTMS')}}" title="rTMS - Transcranial magnetic stimulation"><img src="{{asset('/images/Linha_de_pesquisa/TMS.jpg')}}" alt="rTMS - Transcranial magnetic stimulation"></a>
+                                <a href="{{url('/linhasdepesquisa/rTMS')}}" title="rTMS - Transcranial magnetic stimulation"><img src="{{asset('/images/Linha_de_pesquisa/TMS_small.png')}}" alt="rTMS - Transcranial magnetic stimulation"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/rTMS')}}" title="rTMS - Transcranial magnetic stimulation">rTMS – Estimulação magnética transcraniana</a></h3>
                             <div class="summary">
@@ -428,7 +428,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20524" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/TDCS')}}" title="tDCS - Transcranial direct current stimulation"><img src="{{asset('/images/Linha_de_pesquisa/TDCS.jpg')}}" alt="tDCS - Transcranial direct current stimulation"></a>
+                                <a href="{{url('/linhasdepesquisa/TDCS')}}" title="tDCS - Transcranial direct current stimulation"><img src="{{asset('/images/Linha_de_pesquisa/TDCS_small.jpg')}}" alt="tDCS - Transcranial direct current stimulation"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/TDCS')}}" title="TDCS - Transcranial direct current stimulation">tDCS – Estimulação transcraniana por corrente contínua</a></h3>
                             <div class="summary">
@@ -438,7 +438,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20526" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/Neurofeedback')}}" title="NEUROFEEDBACK"><img src="{{asset('/images/Linha_de_pesquisa/Neurofeedback.jpg')}}" alt="NEUROFEEDBACK"></a>
+                                <a href="{{url('/linhasdepesquisa/Neurofeedback')}}" title="NEUROFEEDBACK"><img src="{{asset('/images/Linha_de_pesquisa/Neurofeedback_small.gif')}}" alt="NEUROFEEDBACK"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/Neurofeedback')}}" title="NEUROFEEDBACK">Neurofeedback</a></h3>
                             <div class="summary">
@@ -448,7 +448,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20528" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/RemediacaoCognitiva')}}" title="REMEDIAÇÃO COGNITIVA"><img src="{{asset('/images/Linha_de_pesquisa/RemediacaoCognitiva.jpg')}}" alt="REMEDIAÇÃO COGNITIVA"></a>
+                                <a href="{{url('/linhasdepesquisa/RemediacaoCognitiva')}}" title="REMEDIAÇÃO COGNITIVA"><img src="{{asset('/images/Linha_de_pesquisa/RemediacaoCognitiva_small.png')}}" alt="REMEDIAÇÃO COGNITIVA"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/RemediacaoCognitiva')}}" title="REMEDIAÇÃO COGNITIVA">Remediação Cognitiva</a></h3>
                             <div class="summary">
@@ -458,7 +458,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20531" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography"><img src="{{asset('/images/Linha_de_pesquisa/QEEG.jpg')}}" alt="QEEG - Quantitative electroencephalography"></a>
+                                <a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography"><img src="{{asset('/images/Linha_de_pesquisa/QEEG_small.gi')}}" alt="QEEG - Quantitative electroencephalography"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography">QEEG – Eletroencefalografia quantitativa</a></h3>
                             <div class="summary">
@@ -468,7 +468,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20534" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/EyeTracking')}}" title="EYE TRACKING"><img src="{{asset('/images/Linha_de_pesquisa/EyeTracking.jpg')}}" alt="EYE TRACKING"></a>
+                                <a href="{{url('/linhasdepesquisa/EyeTracking')}}" title="EYE TRACKING"><img src="{{asset('/images/Linha_de_pesquisa/EyeTracking_small.jpg')}}" alt="EYE TRACKING"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/EyeTracking')}}" title="EYE TRACKING">Eye Tracking</a></h3>
                             <div class="summary">
@@ -478,7 +478,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20537" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/FMRI')}}" title="fMRI - Functional magnetic resonance imaging"><img src="{{asset('/images/Linha_de_pesquisa/FMRI.jpg')}}" alt="fMRI - Ressonância Magnética Funcional"></a>
+                                <a href="{{url('/linhasdepesquisa/FMRI')}}" title="fMRI - Functional magnetic resonance imaging"><img src="{{asset('/images/Linha_de_pesquisa/FMRI_small.png')}}" alt="fMRI - Ressonância Magnética Funcional"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/FMRI')}}" title="FMRI - Functional magnetic resonance imaging">fMRI - Ressonância Magnética Funcional</a></h3>
                             <div class="summary">
@@ -489,7 +489,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20540" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/Genetica')}}" title="GENÉTICA"><img src="{{asset('/images/Linha_de_pesquisa/genetica.jpg')}}" alt="GENÉTICA"></a>
+                                <a href="{{url('/linhasdepesquisa/Genetica')}}" title="GENÉTICA"><img src="{{asset('/images/Linha_de_pesquisa/genetica_small.jpg')}}" alt="GENÉTICA"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/Genetica')}}" title="GENÉTICA">Genética</a></h3>
                             <div class="summary">
@@ -500,7 +500,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20540" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/Eletrofisiologia')}}" title="ELETROFISIOLOGIA PERIFÉRICA"><img src="{{asset('/images/Linha_de_pesquisa/eletrofisiologia.jpg')}}" alt="ELETROFISIOLOGIA PERIFÉRICA"></a>
+                                <a href="{{url('/linhasdepesquisa/Eletrofisiologia')}}" title="ELETROFISIOLOGIA PERIFÉRICA"><img src="{{asset('/images/Linha_de_pesquisa/eletrofisiologia_small.jpg')}}" alt="ELETROFISIOLOGIA PERIFÉRICA"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/Eletrofisiologia')}}" title="ELETROFISIOLOGIA PERIFÉRICA">Eletrofisiologia Periférica</a></h3>
                             <div class="summary">
@@ -521,7 +521,7 @@
         <div class="center">
             <div class="content force">
                 <div class="identification column force">
-                    <a class="footer-logo column" href="http://homestead.app" style="margin-right: 0px;">
+                    <a class="footer-logo column" href="{{url('/')}}" style="margin-right: 0px;">
                         <img class="horizontal-logo center" src="{{asset('/images/logo_cinza.png')}}" alt="Centro de Neuromodulação" >
                         <img class="vertical-logo center" src="{{asset('/images/logo_cinza.png')}}" alt="Centro de Neuromodulação">
                     </a>
