@@ -248,28 +248,28 @@
                                     <div class="graphic"><img src="{{asset('/images/Pessoas/diretores/Acioly.png')}}" alt="Prof. Dr. Acioly"></div>
                                     <div class="kicker">Diretor Clínico</div>
                                     <div class="fact-description">
-                                        <p>Prof. Dr. Livre-Docente EPM-UNIFESP<br> Acioly Tavares Lacerda</p>
+                                        <p>Prof. Dr.  Acioly T. Lacerda<br> Livre-Docente - UNIFESP</p>
                                     </div>
                                 </div>
                                 <div class="fact-2 fact column">
                                     <div class="graphic"><img src="{{asset('/images/Pessoas/diretores/Quirino_Cordeiro.png')}}" alt="Prof. Dr. Quirino Cordeiro"></div>
                                     <div class="kicker">Diretor Científico</div>
                                     <div class="fact-description">
-                                        <p>Prof. Dr. EPM-UNIFESP/Santa Casa<br> Quirino Cordeiro</p>
+                                        <p>Prof. Dr. Quirino Cordeiro <br> EPM-UNIFESP/Santa Casa</p>
                                     </div>
                                 </div>
                                 <div class="fact-3 fact column">
                                     <div class="graphic"><img src="{{asset('/images/Pessoas/diretores/Alvaro_Machado.png')}}" alt="Prof. Dr. Álvaro Machado Dias"></div>
                                     <div class="kicker">Diretor Executivo</div>
                                     <div class="fact-description">
-                                        <p>Prof. Dr. Livre-Docente EPM-UNIFESP<br> Álvaro Machado Dias</p>
+                                        <p>Prof. Dr. Álvaro Machado Dias <br> Livre-Docente - UNIFESP</p>
                                     </div>
                                 </div>
                                 <div class="fact-4 last fact column">
                                     <div class="graphic"><img src="{{asset('/images/Pessoas/diretores/Rodrigo_Bressan.png')}}" alt="Prof. Dr. Rodrigo Bressan"></div>
                                     <div class="kicker">Diretor de Relações Internacionais</div>
                                     <div class="fact-description">
-                                        <p>Prof. Dr. Livre-Docente EPM-UNIFESP<br> Rodrigo Affonseca Bressan</p>
+                                        <p>Prof. Dr. Rodrigo A. Bressan <br> Livre-Docente - UNIFESP</p>
                                     </div>
                                 </div>
 
