@@ -458,7 +458,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20531" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography"><img src="{{asset('/images/Linha_de_pesquisa/QEEG_small.gif')}}" alt="QEEG - Quantitative electroencephalography"></a>
+                                <a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography"><img src="{{asset('/images/Linha_de_pesquisa/eeg_small.gif')}}" alt="QEEG - Quantitative electroencephalography"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/QEEG')}}" title="QEEG - Quantitative electroencephalography">QEEG – Eletroencefalografia quantitativa</a></h3>
                             <div class="summary">
@@ -478,7 +478,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20537" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/FMRI')}}" title="fMRI - Functional magnetic resonance imaging"><img src="{{asset('/images/Linha_de_pesquisa/FMRI_small.png')}}" alt="fMRI - Ressonância Magnética Funcional"></a>
+                                <a href="{{url('/linhasdepesquisa/FMRI')}}" title="fMRI - Functional magnetic resonance imaging"><img src="{{asset('/images/Linha_de_pesquisa/fmri_small.gif')}}" alt="fMRI - Ressonância Magnética Funcional"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/FMRI')}}" title="FMRI - Functional magnetic resonance imaging">fMRI - Ressonância Magnética Funcional</a></h3>
                             <div class="summary">
@@ -489,7 +489,7 @@
 
                         <div class="supporting-content-item teaser type-teaser force has-image js-transform" data-id="20540" data-type="teaser">
                             <div class="image">
-                                <a href="{{url('/linhasdepesquisa/Genetica')}}" title="GENÉTICA"><img src="{{asset('/images/Linha_de_pesquisa/genetica_small.jpg')}}" alt="GENÉTICA"></a>
+                                <a href="{{url('/linhasdepesquisa/Genetica')}}" title="GENÉTICA"><img src="{{asset('/images/Linha_de_pesquisa/genetica_small.gif')}}" alt="GENÉTICA"></a>
                             </div>
                             <h3 class="headline"><a href="{{url('/linhasdepesquisa/Genetica')}}" title="GENÉTICA">Genética</a></h3>
                             <div class="summary">

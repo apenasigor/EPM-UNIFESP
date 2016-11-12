@@ -23,7 +23,7 @@
         <h2 class="head">Genética</h2>
         <div class="type-image" data-id="16484">
             <div class="image embedded small-size align-right">
-                <a href="{{asset('/images/Linha_de_pesquisa/genetica_small.jpg')}}" target="_blank"><img src="{{asset('/images/Linha_de_pesquisa/genetica_small.jpg')}}" alt="Genética"></a>
+                <a href="{{asset('/images/Linha_de_pesquisa/genetica_small.gif')}}" target="_blank"><img src="{{asset('/images/Linha_de_pesquisa/genetica_small.gif')}}" alt="Genética"></a>
             </div>
         </div>
         <p>
