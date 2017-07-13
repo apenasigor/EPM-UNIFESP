@@ -20,24 +20,24 @@
     <meta property="og:description" content="O Centro de Neuromodulação da EPM-UNIFESP é uma iniciativa científico-tecnológica voltada ao desenvolvimento de métodos e estudos em psiquiatria e áreas afins.">
 
 
-    <meta property="og:image" content="{{asset('/images/logo_azul.png')}}">
-    <meta property="og:image:url" content="{{asset('/images/logo_azul.png')}}">
+    <meta property="og:image" content="{{asset('/images/favIconNeuro.png')}}">
+    <meta property="og:image:url" content="{{asset('/images/favIconNeuro.png')}}">
 
     <!--trocar todas as imagens-->
-    <link rel="apple-touch-icon" sizes="57x57" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="apple-touch-icon" sizes="60x60" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="apple-touch-icon" sizes="76x76" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="apple-touch-icon" sizes="120x120" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="apple-touch-icon" sizes="144x144" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="apple-touch-icon" sizes="152x152" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('/images/logo_azul.png')}}">
-    <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="32x32">
-    <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="194x194">
-    <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="96x96">
-    <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="192x192">
-    <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('/images/favIconNeuro.png')}}">
+    <link rel="icon" type="image/png" href="{{asset('/images/favIconNeuro.png')}}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{asset('/images/favIconNeuro.png')}}" sizes="194x194">
+    <link rel="icon" type="image/png" href="{{asset('/images/favIconNeuro.png')}}" sizes="96x96">
+    <link rel="icon" type="image/png" href="{{asset('/images/favIconNeuro.png')}}" sizes="192x192">
+    <link rel="icon" type="image/png" href="{{asset('/images/favIconNeuro.png')}}" sizes="16x16">
     <link rel="icon" href="{{asset('/images/logo_azul.png')}}">
     <meta name="apple-mobile-web-app-title" content="Centro de Neuromodulação EPM-UNIFESP">
     <meta name="application-name" content="Centro de Neuromodulação EPM-UNIFESP">
@@ -282,7 +282,8 @@
                                 <li class=""><a href="{{url('/pessoas')}}" title="Pesquisadores" class="destination">Pesquisadores</a></li>
                             </ul>
                         </li>
-                        <li class="parent-level"> <a href="#" class="toggle-section" title="Abrir e Fechar o Menu"><i class="fa fa-plus-square-o" aria-hidden="true"></i><span class="icon-fallback">+</span><span class="visuallyhidden">Expand Admissions &amp; Aid section</span></a> <a href="{{url('/producoes')}}" title="Produções" class="destination">Produções</a>
+                        <li class="parent-level">
+                            <a href="#" class="toggle-section" title="Abrir e Fechar o Menu"><i class="fa fa-plus-square-o" aria-hidden="true"></i><span class="icon-fallback">+</span><span class="visuallyhidden">Expand Admissions &amp; Aid section</span></a> <a href="{{url('/producoes')}}" title="Produções" class="destination">Produções</a>
                             <ul class="tier-2">
                                 <li class=""> <a href="{{url('/producoes')}}" title="TNS" class="destination">TNS</a> </li>
                                 <li class=""> <a href="{{url('/producoes')}}" title="TMS" class="destination">rTMS</a> </li>

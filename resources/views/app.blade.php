@@ -8,7 +8,7 @@
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Home | Centro de Neuromodulação EPM-UNIFESP</title>
+    <title>Y-Mind</title>
     <meta name="description" content="O Centro de Neuromodulação da EPM-UNIFESP é uma iniciativa científico-tecnológica voltada ao desenvolvimento de métodos e estudos em psiquiatria e áreas afins.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="referrer" content="origin">
@@ -39,8 +39,8 @@
     <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="192x192">
     <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="16x16">
     <link rel="icon" href="{{asset('/images/logo_azul.png')}}">
-    <meta name="apple-mobile-web-app-title" content="Centro de Neuromodulação EPM-UNIFESP">
-    <meta name="application-name" content="Centro de Neuromodulação EPM-UNIFESP">
+    <meta name="apple-mobile-web-app-title" content="Y-Mind">
+    <meta name="application-name" content="Y-Mind">
     <meta name="msapplication-TileColor" content="#edf4f2">
     <meta name="msapplication-TileImage" content="{{asset('/images/logo_azul.png')}}">
     <meta name="theme-color" content="#edf4f2">
@@ -53,6 +53,28 @@
     <link rel="stylesheet" type="text/css" href="{{asset('/css/brainanim.css')}}">
     <link rel="stylesheet" href="{{asset('/css/base-e1f1a1c0a0.css')}}">
     <link rel="stylesheet" href="{{asset('/css/home-c67872ce6d.css')}}">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <style>
         .alert-on .identity-stripe {
             border-top-color: #2C2C33;
@@ -66,65 +88,41 @@
             background-color: #2C2C33 !important;
         }
     </style>
-    <script>
-        function setHeroHeight() {
-
-            /**
-             * Do not alter the size of the hero on old browsers.
-             * We are falling back to the no JavaScript for these browsers.
-             */
-            if (!modernBrowser) {
-                return;
-            }
-
-            var hero = document.getElementById("bbHeroSection");
-            var heroOffset = hero.getBoundingClientRect().bottom;
-            var windowHeight = document.documentElement.clientHeight;
-
-            var height = windowHeight - heroOffset;
-
-            hero.style.height = height + "px"
-
-        }
-    </script>
     <script src="{{asset('/js/modernizr-acd544d837.js')}}"></script>
     <script src="{{asset('/js/head-c1049261eb.js')}}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+    <script>
+            function setHeroHeight() {
+
+                /**
+                 * Do not alter the size of the hero on old browsers.
+                 * We are falling back to the no JavaScript for these browsers.
+                 */
+                if (!modernBrowser) {
+                    return;
+                }
+
+                var hero = document.getElementById("bbHeroSection");
+                var heroOffset = hero.getBoundingClientRect().bottom;
+                var windowHeight = document.documentElement.clientHeight;
+
+                var height = windowHeight - heroOffset;
+
+                hero.style.height = height + "px"
+
+            }
+    </script>
+
+
+
 
 
 </head>
 
 <body class="home page page-id-12375 page-template-default  show-nav-fries unscrolled">
 @yield('content')
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-<script type="text/javascript">
-    $('.atividades').slick({
-        centerMode: true,
-        centerPadding: '60px',
-        slidesToShow: 3,
-        responsive: [
-            {
-                breakpoint: 768,
-                settings: {
-                    arrows: false,
-                    centerMode: true,
-                    centerPadding: '40px',
-                    slidesToShow: 3
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    arrows: false,
-                    centerMode: true,
-                    centerPadding: '40px',
-                    slidesToShow: 1
-                }
-            }
-        ]
-    });
-</script>
+
+
 
 </body>
 </html>
