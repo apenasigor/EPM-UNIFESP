@@ -50,6 +50,7 @@
     <script src="{{asset('/js/head-c1049261eb.js')}}"></script>
     <link rel="stylesheet" href="{{asset('/css/base-e1f1a1c0a0.css')}}">
     <link rel="stylesheet" href="{{asset('/css/inner-a91ee9ff7b.css')}}">
+
     <style>
         a,
         button {
@@ -197,6 +198,7 @@
         .modal-background .search-box button:hover {
             background-color: #563f80;
         }
+
     </style>
     <style>
         .alert-on .identity-stripe {
@@ -210,6 +212,7 @@
         .alert-on.page-layout_inner .minimal-title {
             background-color: #2C2C33 !important;
         }
+
     </style>
 </head>
 
@@ -234,9 +237,41 @@
                     </a>
                 </li>
 
+<<<<<<< HEAD
             </ul>
             <div class="tabpanel-set force">
 
+=======
+
+                <li class="tab" role="presentation">
+                    <a href="#search" id="tab-search" aria-controls="tabpanel-search" role="tab">
+                        <i class="fa fa-fw fa-search" aria-hidden="true"></i>
+                        Pesquisar
+                    </a>
+                </li>
+            </ul>
+            <div class="tabpanel-set force">
+                <div id="tabpanel-search" class="panel-search tabpanel column" aria-labelledby="tab-search" aria-hidden="true" role="tabpanel">
+                    <button class="close-box-x close" aria-label="Close tab panel widget dialog"><i class="fa fa-fw fa-times" aria-hidden="true"></i><span class="icon-fallback">Fechar</span></button>
+                    <div class="search-box force">
+                        <form action="{{url('/producoes/pesquisar')}}" method="POST">
+                            {{ csrf_field() }}
+                            <input type="hidden" name="c" value="gsa">
+                            <label for="search-gsa-826">Pesquisar</label>
+                            <input id="search-gsa-826" class="column" type="text" name="q" value="" autocomplete="off">
+                            <button type="submit" class="button column"><i class="fa fa-fw fa-search"></i><span class="text">pesquisar</span></button>
+                        </form>
+                    </div>
+                    <div class="ga-search-suggestions">
+                        <h4>Pesquisas comuns</h4>
+                        <ul class="ga-suggestion-set">
+                            <li class=""> <a href="{{url('/Neuromodulacao')}}" title="Neuromodulação" class="destination">Neuromodulação </a> </li>
+                            <li class=""> <a href="{{url('/Cetamina')}}" title="Cetamina" class="destination">Cetamina</a> </li>
+                            <li class=""> <a href="{{url('/Diagnostico/Clinico')}}" title="Diagnóstico Clínico" class="destination">Diagnóstico Clínico</a> </li>
+                        </ul>
+                    </div>
+                </div>
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
                 <div id="tabpanel-menu" class="panel-menu tabpanel column" aria-labelledby="tab-menu" aria-hidden="true" role="tabpanel">
                     <button class="close-box-x close" aria-label="Close tab panel widget dialog"><i class="fa fa-fw fa-times" aria-hidden="true"></i><span class="icon-fallback">Fechar</span></button>
                     <ul class="site-tree tier-1">
@@ -410,7 +445,19 @@
             </div>
             <div class="nav column force">
                 <a id="search"></a>
+<<<<<<< HEAD
 
+=======
+                <div class="search-box force">
+                    <!--trocar o action-->
+                    <form method="POST" action="{{url('/producoes/pesquisar/')}}" class="column force" role="search">
+                        {{ csrf_field() }}
+                        <label for="search-gsa-711">Pesquisar</label>
+                        <input id="search-gsa-711" class="column" type="text" name="searchbar" value="" autocomplete="off">
+                        <button type="submit" class="button column"><i class="fa fa-fw fa-search"></i><span class="text">pesquisar</span></button>
+                    </form>
+                </div>
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
                 <a id="menu"></a>
                 <ul class="site-tree column tier-1">
                     <li class="parent-level">

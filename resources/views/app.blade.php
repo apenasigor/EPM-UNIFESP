@@ -8,8 +8,13 @@
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<<<<<<< HEAD
     <title>Home | We-Mind - NeuroServices</title>
     <meta name="description" content="We-Mind - NeuroServices">
+=======
+    <title>Y-Mind</title>
+    <meta name="description" content="O Centro de Neuromodulação da EPM-UNIFESP é uma iniciativa científico-tecnológica voltada ao desenvolvimento de métodos e estudos em psiquiatria e áreas afins.">
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="referrer" content="origin">
 
@@ -39,8 +44,13 @@
     <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="192x192">
     <link rel="icon" type="image/png" href="{{asset('/images/logo_azul.png')}}" sizes="16x16">
     <link rel="icon" href="{{asset('/images/logo_azul.png')}}">
+<<<<<<< HEAD
     <meta name="apple-mobile-web-app-title" content="We-Mind - NeuroServices">
     <meta name="application-name" content="We-Mind - NeuroServices">
+=======
+    <meta name="apple-mobile-web-app-title" content="Y-Mind">
+    <meta name="application-name" content="Y-Mind">
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
     <meta name="msapplication-TileColor" content="#edf4f2">
     <meta name="msapplication-TileImage" content="{{asset('/images/logo_azul.png')}}">
     <meta name="theme-color" content="#edf4f2">
@@ -58,6 +68,26 @@
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
     <style>
         .alert-on .identity-stripe {
             border-top-color: #2C2C33;
@@ -71,30 +101,33 @@
             background-color: #2C2C33 !important;
         }
     </style>
-    <script>
-        function setHeroHeight() {
-
-            /**
-             * Do not alter the size of the hero on old browsers.
-             * We are falling back to the no JavaScript for these browsers.
-             */
-            if (!modernBrowser) {
-                return;
-            }
-
-            var hero = document.getElementById("bbHeroSection");
-            var heroOffset = hero.getBoundingClientRect().bottom;
-            var windowHeight = document.documentElement.clientHeight;
-
-            var height = windowHeight - heroOffset;
-
-            hero.style.height = height + "px"
-
-        }
-    </script>
     <script src="{{asset('/js/modernizr-acd544d837.js')}}"></script>
     <script src="{{asset('/js/head-c1049261eb.js')}}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+    <script>
+            function setHeroHeight() {
+
+                /**
+                 * Do not alter the size of the hero on old browsers.
+                 * We are falling back to the no JavaScript for these browsers.
+                 */
+                if (!modernBrowser) {
+                    return;
+                }
+
+                var hero = document.getElementById("bbHeroSection");
+                var heroOffset = hero.getBoundingClientRect().bottom;
+                var windowHeight = document.documentElement.clientHeight;
+
+                var height = windowHeight - heroOffset;
+
+                hero.style.height = height + "px"
+
+            }
+    </script>
+
+
+
 
 
     <style type="text/css">
@@ -329,6 +362,7 @@
 
 <body class="home page page-id-12375 page-template-default  show-nav-fries unscrolled">
 @yield('content')
+<<<<<<< HEAD
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 <script type="text/javascript">
@@ -364,6 +398,10 @@
         ctx = c.getContext( '2d' ),
 
         opts = {
+=======
+
+
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
 
             range: 180,
             baseConnections: 3,

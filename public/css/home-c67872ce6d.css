@@ -49,8 +49,12 @@
 }
 .js .home .hero .backup-nojs{}.js .home .hero .backup-mobile,.js .home .hero .content{
      height:100%;
+<<<<<<< HEAD
      width:100%;
     background-color: #36275e;
+=======
+     width:100%
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
 }
 .js .home .hero .backup-mobile{
     -webkit-background-size:cover;
@@ -94,12 +98,20 @@
 
 }
 .home .top-facts .head,.home .top-facts .subhead{
+<<<<<<< HEAD
     color:#51417d
+=======
+    color:#76BCE6
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
 }
 /* BORDA SERVICOS */
 .home .top-facts .fact-description:after
 {
+<<<<<<< HEAD
     background-color:#563f80;
+=======
+    background-color:#76BCE6;
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
 
 }
 .no-js .home .maps .block{
@@ -124,7 +136,12 @@
 }
 @media only screen and (min-width:36em){
     .home #bbDivisionsSection .sticky{
+<<<<<<< HEAD
         background-color: #E9E9E9;
+=======
+       /*background-color: #fff;*/
+        /*color programs*/
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
     }
     .lowpolly {width: 500px; height:200px; }
 .lowpolly img{
@@ -330,11 +347,19 @@
     .facts{
         width:60%;
         min-height:1px;
+<<<<<<< HEAD
         margin:0 23%
     }
     @media only screen and (min-width:108em){
     .facts{
         width:100%;
+=======
+        margin:0 30%
+    }
+    @media only screen and (min-width:108em){
+    .facts{
+        width:auto;
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
         min-height:1px;
         -test-nomargin:"true";
         -test-ratio:12 of 12;
@@ -359,11 +384,15 @@
     .fact.fact-4{
         margin-bottom:0
     }
+<<<<<<< HEAD
     @media only screen and (min-width:36em){.fact{
         margin:4px -4.985% -15.698% 0;
         width:48.49246%;
         min-height:1px}
         .fact.fact-1,.fact.fact-3{padding-right:1em}
+=======
+    @media only screen and (min-width:36em){.fact{margin:0 3.01508% 10.30151% 0;width:48.49246%;min-height:1px}.fact.fact-1,.fact.fact-3{padding-right:1em}
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
     .fact.fact-2,.fact.fact-4{
         margin-right:0;
         padding-left:1em;
@@ -401,7 +430,11 @@
         display:block
     }
     .fact-impact,.kic
+<<<<<<< HEAD
 ker{text-align:center;text-transform:uppercase;position:relative}.fact-impact:after,.kicker:after{content:"";width:33.33333%;display:block;position:absolute;left:33.33333%;right:33.33333%;background-color:#51417D;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity-ie)";filter:alpha(opacity=20);-moz-opacity:.2;-khtml-opacity:.2;opacity:.2}.fact-impact{margin-top:.2em;margin-bottom:.15em;padding-bottom:.2em;font-family:"TitlingGothicFB Comp","Titling Gothic Compressed",titling-gothic,Impact,sans-serif;font-size:5em;font-weight:500;line-height:.75em;color:#51417D}.fact-impact:after{height:.025em;bottom:-.0125em}
+=======
+ker{text-align:center;text-transform:uppercase;position:relative}.fact-impact:after,.kicker:after{content:"";width:33.33333%;display:block;position:absolute;left:33.33333%;right:33.33333%;background-color:#76BCE6;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity-ie)";filter:alpha(opacity=20);-moz-opacity:.2;-khtml-opacity:.2;opacity:.2}.fact-impact{margin-top:.2em;margin-bottom:.15em;padding-bottom:.2em;font-family:"TitlingGothicFB Comp","Titling Gothic Compressed",titling-gothic,Impact,sans-serif;font-size:5em;font-weight:500;line-height:.75em;color:#76BCE6}.fact-impact:after{height:.025em;bottom:-.0125em}
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
 .kicker{
     margin-bottom:.0em;
     padding-top:.8em;
@@ -413,6 +446,7 @@ ker{text-align:center;text-transform:uppercase;position:relative}.fact-impact:af
     letter-spacing:2px}
 
 .fact-description,.fact-description p{
+<<<<<<< HEAD
     margin:0;
     width: 190px;
     color: #181818;
@@ -422,6 +456,15 @@ ker{text-align:center;text-transform:uppercase;position:relative}.fact-impact:af
     font-family: 'Merriweather', serif;
     color: #563f80;
     margin-left: 20%;
+=======
+    margin:0
+
+}
+.servicosh3{
+
+    color: #76BCE6;
+    margin-left: 40%;
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
     margin-right: 35%;
     margin-top:-25%;
     font-family: Verdana;
@@ -432,13 +475,21 @@ ker{text-align:center;text-transform:uppercase;position:relative}.fact-impact:af
     .pServicos{
         margin-top: -2%;
         font-size: 20px;
+<<<<<<< HEAD
         color: #563f80;
+=======
+        color: #76BCE6;
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
         font-family: Verdana;
     }
 
 .nossoEspecialista{
+<<<<<<< HEAD
     font-family: 'Merriweather', serif;
     color: #563f80;
+=======
+    color: #76BCE6;
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
     font-family: Verdana;
     font-weight: bold;
     font-size:40px;
@@ -446,22 +497,36 @@ ker{text-align:center;text-transform:uppercase;position:relative}.fact-impact:af
 }
 .nossoEspecialistaP{
     font-size: 20px;
+<<<<<<< HEAD
     color: #563f80;
+=======
+    color: #76BCE6;
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
     font-family: Verdana;
 
 }
 }
 @media only screen and (min-width : 320px) {
+<<<<<<< HEAD
     /*.servicosh3{
         margin-left: 15%;
 
     }*/
+=======
+    .servicosh3{
+        margin-left: 15%;
+
+    }
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
 
 }
 
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb

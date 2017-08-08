@@ -40,10 +40,10 @@ Route::get('/', function () {
 | Sobre Nós
 |--------------------------------------------------------------------------
 */
-Route::get('/sobrenos', function(){
+Route::get('/about-us', function(){
     $papers = Paper::orderBy('name', 'asc')->get();
 
-    return view('AboutUs.sobrenos',  [
+    return view('AboutUs.about-us',  [
         'papers' => $papers
     ]);
 });
@@ -79,10 +79,17 @@ Route::get('/sobrenos/estrategia', function(){
 | Linhas de Pesquisa
 |--------------------------------------------------------------------------
 */
+<<<<<<< HEAD
 Route::get('/Neuromodulacao', function(){
     $papers = Paper::orderBy('name', 'asc')->get();
 
     return view('Fields.Neuromodulacao', [
+=======
+Route::get('/mission', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
+
+    return view('Fields.mission', [
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
         'papers' => $papers
     ]);
 });
@@ -102,7 +109,11 @@ Route::get('/Neuromodulacao', function(){
         ]);
     });
     
+<<<<<<< HEAD
     Route::get('/Diagnostico/Biologico', function(){
+=======
+    Route::get('/Biologico', function(){
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
         $papers = Paper::orderBy('name', 'asc')->get();
 
         return view('Fields.LinhasDePesquisa.Biologico', [
@@ -152,22 +163,23 @@ Route::get('/Neuromodulacao', function(){
     });
     
     
+<<<<<<< HEAD
     Route::get('/Diagnostico', function(){
         $papers = Paper::orderBy('name', 'asc')->get();
 
         return view('Fields.LinhasDePesquisa.Diagnostico', [
-            'papers' => $papers
-        ]);
-    });
-    
-    
-    Route::get('/linhasdepesquisa/Eletrofisiologia', function(){
+=======
+    Route::get('/team', function(){
         $papers = Paper::orderBy('name', 'asc')->get();
 
-        return view('Fields.LinhasDePesquisa.Eletrofisiologia', [
+        return view('Fields.LinhasDePesquisa.team', [
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
             'papers' => $papers
         ]);
     });
+    
+    
+
 
 
 /*
@@ -175,11 +187,19 @@ Route::get('/Neuromodulacao', function(){
 | Pessoas
 |--------------------------------------------------------------------------
 */
+<<<<<<< HEAD
 Route::get('/Cetamina', function(){
     $papers = Paper::orderBy('name', 'asc')->get();
     $researchers = Researcher::orderBy('name','asc')->get();
 
     return view('People.Cetamina', [
+=======
+Route::get('/programs', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
+    $researchers = Researcher::orderBy('name','asc')->get();
+
+    return view('People.programs', [
+>>>>>>> b16558901def363bd4f77a0794e8071279ca30fb
         'researchers' => $researchers,
         'papers' => $papers
     ]);
@@ -224,5 +244,57 @@ Route::post('/producoes/pesquisar', function( Request $request){
         'papers' => $papers
     ]);
 });
+/*
+|--------------------------------------------------------------------------
+| PROGRAMS TEAM
+|--------------------------------------------------------------------------
+*/Route::get('programs/Linc', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
 
+    return view('Fields.LinhasDePesquisa.Linc', [
+        'papers' => $papers
+    ]);
+});
 
+Route::get('/programs/Proesq', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
+
+    return view('Fields.LinhasDePesquisa.Proesq', [
+        'papers' => $papers
+    ]);
+});
+Route::get('/programs/Prisma', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
+
+    return view('Fields.LinhasDePesquisa.Prisma', [
+        'papers' => $papers
+    ]);
+});
+Route::get('/programs/Papia', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
+
+    return view('Fields.LinhasDePesquisa.Papia', [
+        'papers' => $papers
+    ]);
+});
+Route::get('/programs/Inserir', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
+
+    return view('Fields.LinhasDePesquisa.Inserir', [
+        'papers' => $papers
+    ]);
+});
+Route::get('/programs/Teamm', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
+
+    return view('Fields.LinhasDePesquisa.Teamm', [
+        'papers' => $papers
+    ]);
+});
+Route::get('/programs/CucaLegal', function(){
+    $papers = Paper::orderBy('name', 'asc')->get();
+
+    return view('Fields.LinhasDePesquisa.CucaLegal', [
+        'papers' => $papers
+    ]);
+});
