@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="20a96582-5a81-4e4e-8a23-3eee146f83d5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/AboutUs/model.blade.php" afterPath="$PROJECT_DIR$/resources/views/AboutUs/model.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Neurofeedback.blade.php" afterPath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Neurofeedback.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
     </list>
     <ignored path="Neuro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -469,12 +465,12 @@
       <workItem from="1502123112282" duration="503000" />
       <workItem from="1502126672983" duration="912000" />
       <workItem from="1502134745390" duration="10455000" />
-      <workItem from="1502225723733" duration="3745000" />
+      <workItem from="1502225723733" duration="4071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209505000" />
+    <option name="totallyTimeSpent" value="209831000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
