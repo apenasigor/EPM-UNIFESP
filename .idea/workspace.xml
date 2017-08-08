@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a96582-5a81-4e4e-8a23-3eee146f83d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="20a96582-5a81-4e4e-8a23-3eee146f83d5" name="Default" comment="" />
     <ignored path="Neuro.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -465,12 +463,12 @@
       <workItem from="1502123112282" duration="503000" />
       <workItem from="1502126672983" duration="912000" />
       <workItem from="1502134745390" duration="10455000" />
-      <workItem from="1502225723733" duration="4071000" />
+      <workItem from="1502225723733" duration="4534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209831000" />
+    <option name="totallyTimeSpent" value="210294000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
