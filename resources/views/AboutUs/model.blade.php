@@ -15,7 +15,7 @@
     <meta property="og:site_name" content="Centro de Neuromodulação">
     <meta property="og:title" content="Sobre Nós | Centro de Neuromodulação">
     <meta property="og:url" content="{{url('/')}}">
-    <meta property="og:description" content="O Centro de Neuromodulação da EPM-UNIFESP é uma iniciativa científico-tecnológica voltada ao desenvolvimento de métodos e estudos em psiquiatria e áreas afins.">
+    <meta property="og:description" content="We-Mind - NeuroServices">
 
 
     <meta property="og:image" content="{{asset('/images/favIconNeuro.png')}}">
@@ -328,7 +328,6 @@
                 <h4 class="page-breadcrumb">
                     <span style="white-space: nowrap;"><a href="{{url('/')}}" title="Home">Home</a></span> <span aria-hidden="true">&gt;</span>
                     <span style="white-space: nowrap;"><a href="{{url('sobrenos')}}" title="Sobre Nós">Sobre Nós</a></span>
-                    <span aria-hidden="true">&gt;</span> <span style="white-space: nowrap;"><a href="#" title="@yield('name')">@yield('name')</a>
                     </span>
                 </h4>
                 <!--googleon: all-->

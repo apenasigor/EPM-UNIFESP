@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a96582-5a81-4e4e-8a23-3eee146f83d5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Genetica.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/TDCS.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/TNS.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/rTMS.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/Fields/linhasdepesquisa.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/People/pessoas.blade.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/logo_azul.png" afterPath="$PROJECT_DIR$/public/images/logo_azul.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Neuro.iml" afterPath="$PROJECT_DIR$/.idea/Neuro.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/base-e1f1a1c0a0.css" afterPath="$PROJECT_DIR$/public/css/base-e1f1a1c0a0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/home-c67872ce6d.css" afterPath="$PROJECT_DIR$/public/css/home-c67872ce6d.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/inner-a91ee9ff7b.css" afterPath="$PROJECT_DIR$/public/css/inner-a91ee9ff7b.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/map-e3cf5e1ec5.css" afterPath="$PROJECT_DIR$/public/css/map-e3cf5e1ec5.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/AboutUs/model.blade.php" afterPath="$PROJECT_DIR$/resources/views/AboutUs/model.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/AboutUs/sobrenos.blade.php" afterPath="$PROJECT_DIR$/resources/views/AboutUs/sobrenos.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Neurofeedback.blade.php" afterPath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Neurofeedback.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/model.blade.php" afterPath="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/model.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Productions/model.blade.php" afterPath="$PROJECT_DIR$/resources/views/Productions/model.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
     </list>
@@ -56,96 +36,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base-e1f1a1c0a0.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/base-e1f1a1c0a0.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="411" column="0" lean-forward="false" selection-start-line="411" selection-start-column="0" selection-end-line="411" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="model.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/model.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Cetamina.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/People/Cetamina.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
+            <state relative-caret-position="7293">
               <caret line="429" column="37" lean-forward="false" selection-start-line="429" selection-start-column="37" selection-end-line="429" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014_10_12_000000_create_users_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <element signature="e#143#208#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="112" column="47" lean-forward="false" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Neurofeedback.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Neurofeedback.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Neurofeedback.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="135" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
               <folding>
-                <marker date="1502144329281" expanded="true" signature="5669:5829" ph="..." />
+                <marker date="1502229066590" expanded="true" signature="5669:5829" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="autoload.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap/autoload.php">
+      <file leaf-file-name="Biologico.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Biologico.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="241">
+              <caret line="519" column="0" lean-forward="false" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestCase.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/TestCase.php">
+      <file leaf-file-name="Clinico.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="173">
+              <caret line="530" column="0" lean-forward="false" selection-start-line="530" selection-start-column="0" selection-end-line="530" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home-c67872ce6d.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/home-c67872ce6d.css">
+      <file leaf-file-name="Neuromodulacao.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Fields/Neuromodulacao.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="715">
-              <caret line="465" column="0" lean-forward="true" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
+            <state relative-caret-position="156">
+              <caret line="460" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="536" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="804">
+              <caret line="405" column="0" lean-forward="true" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+              <folding>
+                <marker date="1502229586893" expanded="true" signature="5669:5829" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diagnostico.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="492" column="0" lean-forward="false" selection-start-line="492" selection-start-column="0" selection-end-line="492" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sobrenos.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/AboutUs/sobrenos.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+              <folding>
+                <element signature="e#751#794#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/AboutUs/model.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#span#2;n#h4#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,8 +138,8 @@
       <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5236">
-              <caret line="308" column="27" lean-forward="true" selection-start-line="308" selection-start-column="27" selection-end-line="308" selection-end-column="27" />
+            <state relative-caret-position="370">
+              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -164,7 +149,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>About</find>
       <find>AboutU</find>
       <find>AboutUs</find>
       <find>LinhasDePesquisa</find>
@@ -188,12 +172,13 @@
       <find>.facts</find>
       <find>36em</find>
       <find>@media only screen and (min-width : 600px)</find>
-      <find>pesquisar</find>
       <find>/linhasdepesquisa/Neurofeedback</find>
       <find>canvas</find>
       <find>hero .backup-mobile,.js .home .hero .content{</find>
-      <find>pesquisa</find>
       <find>show</find>
+      <find>pesquisa</find>
+      <find>pesquisar</find>
+      <find>Enviar</find>
     </findStrings>
     <replaceStrings>
       <replace>fundoimagem img</replace>
@@ -227,19 +212,19 @@
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/Productions/model.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/AboutUs/sobrenos.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Fields/Neuromodulacao.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/WhitePaper.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/model.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/base-e1f1a1c0a0.css" />
+        <option value="$PROJECT_DIR$/public/css/home-c67872ce6d.css" />
+        <option value="$PROJECT_DIR$/resources/views/People/Cetamina.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Neurofeedback.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Biologico.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Fields/Neuromodulacao.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/AboutUs/model.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/public/css/base-e1f1a1c0a0.css" />
-        <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Biologico.blade.php" />
-        <option value="$PROJECT_DIR$/public/css/home-c67872ce6d.css" />
-        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/People/Cetamina.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Neurofeedback.blade.php" />
       </list>
     </option>
   </component>
@@ -281,39 +266,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
+              <option name="myItemId" value="we-mind-neuro-services" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
+              <option name="myItemId" value="we-mind-neuro-services" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
+              <option name="myItemId" value="we-mind-neuro-services" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
+              <option name="myItemId" value="we-mind-neuro-services" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -327,11 +300,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
+              <option name="myItemId" value="we-mind-neuro-services" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
+              <option name="myItemId" value="we-mind-neuro-services" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -343,42 +316,26 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="People" />
+              <option name="myItemId" value="AboutUs" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
+              <option name="myItemId" value="we-mind-neuro-services" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
+              <option name="myItemId" value="we-mind-neuro-services" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wemind-neuroservices" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,7 +344,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
-    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/wemind-neuroservices/resources/views/app.blade.php&#10;route&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/wemind-neuroservices/app/Http/routes.php&#10;biolo&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/Biologico.blade.php&#10;HOME&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/public/css/home-c67872ce6d.css&#10;routes&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/app/Http/routes.php&#10;.facts&#9;null&#9;null&#10;home&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/public/css/home-c67872ce6d.css&#10;base&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/public/css/base-e1f1a1c0a0.css&#10;whit&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/WhitePaper.blade.php&#10;sobre&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/AboutUs/sobrenos.blade.php&#10;neuromod&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/Neuromodulacao.blade.php&#10;cetamina&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/People/Cetamina.blade.php&#10;clini&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php&#10;diag&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php&#10;.css&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/public/css/home-c67872ce6d.css&#10;clinico&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php&#10;diagnostico&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php&#10;rou&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/app/Http/routes.php&#10;linhas&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/linhasdepesquisa.blade.php" />
+    <property name="SearchEverywhereHistoryKey" value="we&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/we-mind-neuro-services/resources/views/welcome.blade.php&#10;sobre&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/we-mind-neuro-services/resources/views/AboutUs/sobrenos.blade.php&#10;diag&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/we-mind-neuro-services/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php&#10;neuro&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/we-mind-neuro-services/resources/views/Fields/Neuromodulacao.blade.php&#10;clinico&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/we-mind-neuro-services/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php&#10;bio&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/we-mind-neuro-services/resources/views/Fields/LinhasDePesquisa/Biologico.blade.php&#10;app&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/wemind-neuroservices/resources/views/app.blade.php&#10;route&#9;FILE&#9;file://C:/Users/igor/Documents/GitHub/wemind-neuroservices/app/Http/routes.php&#10;biolo&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/Biologico.blade.php&#10;HOME&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/public/css/home-c67872ce6d.css&#10;routes&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/app/Http/routes.php&#10;.facts&#9;null&#9;null&#10;home&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/public/css/home-c67872ce6d.css&#10;base&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/public/css/base-e1f1a1c0a0.css&#10;whit&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/WhitePaper.blade.php&#10;neuromod&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/Neuromodulacao.blade.php&#10;cetamina&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/People/Cetamina.blade.php&#10;clini&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php&#10;.css&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/public/css/home-c67872ce6d.css&#10;diagnostico&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php&#10;rou&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/app/Http/routes.php&#10;linhas&#9;FILE&#9;file://C:/Users/User/Documents/Github/EPM-UNIFESP/resources/views/Fields/linhasdepesquisa.blade.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -512,11 +469,12 @@
       <workItem from="1502123112282" duration="503000" />
       <workItem from="1502126672983" duration="912000" />
       <workItem from="1502134745390" duration="10455000" />
+      <workItem from="1502225723733" duration="3745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205760000" />
+    <option name="totallyTimeSpent" value="209505000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -529,7 +487,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20625" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -540,7 +497,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.400982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40020898" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0553814" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -685,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="312" column="6" lean-forward="false" selection-start-line="312" selection-start-column="6" selection-end-line="312" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-94">
@@ -713,24 +663,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/AboutUs/sobrenos.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="100" lean-forward="true" selection-start-line="16" selection-start-column="100" selection-end-line="16" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/AboutUs/visao.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Fields/Neuromodulacao.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="304" column="6" lean-forward="false" selection-start-line="304" selection-start-column="6" selection-end-line="304" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -776,20 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/AboutUs/model.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="391" column="25" lean-forward="true" selection-start-line="391" selection-start-column="25" selection-end-line="391" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/phpspec/prophecy/spec/Prophecy/Comparator/FactorySpec.php" />
     <entry file="file://$PROJECT_DIR$/database/migrations/2016_08_18_124000_create_papers_table.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -829,13 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="172" column="56" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="386" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -860,16 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
+        <state relative-caret-position="1853">
           <caret line="112" column="47" lean-forward="false" selection-start-line="112" selection-start-column="16" selection-end-line="112" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Biologico.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="872">
-          <caret line="417" column="47" lean-forward="false" selection-start-line="417" selection-start-column="47" selection-end-line="417" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -884,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/base-e1f1a1c0a0.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
+        <state relative-caret-position="6987">
           <caret line="411" column="0" lean-forward="false" selection-start-line="411" selection-start-column="0" selection-end-line="411" selection-end-column="43" />
           <folding />
         </state>
@@ -892,23 +799,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/home-c67872ce6d.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="465" column="0" lean-forward="true" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5236">
-          <caret line="308" column="27" lean-forward="true" selection-start-line="308" selection-start-column="27" selection-end-line="308" selection-end-column="27" />
+        <state relative-caret-position="7905">
+          <caret line="465" column="0" lean-forward="false" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/model.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="3995">
           <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
           <folding />
         </state>
@@ -916,18 +815,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/People/Cetamina.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
+        <state relative-caret-position="7293">
           <caret line="429" column="37" lean-forward="false" selection-start-line="429" selection-start-column="37" selection-end-line="429" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Biologico.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="519" column="0" lean-forward="false" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Clinico.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="530" column="0" lean-forward="false" selection-start-line="530" selection-start-column="0" selection-end-line="530" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Diagnostico.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="492" column="0" lean-forward="false" selection-start-line="492" selection-start-column="0" selection-end-line="492" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/AboutUs/sobrenos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding>
+            <element signature="e#751#794#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/AboutUs/model.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#span#2;n#h4#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Fields/Neuromodulacao.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="460" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="536" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Fields/LinhasDePesquisa/Neurofeedback.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="135" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
           <folding>
-            <marker date="1502144329281" expanded="true" signature="5669:5829" ph="..." />
+            <marker date="1502229066590" expanded="true" signature="5669:5829" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="405" column="0" lean-forward="true" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+          <folding>
+            <marker date="1502229586893" expanded="true" signature="5669:5829" ph="..." />
           </folding>
         </state>
       </provider>

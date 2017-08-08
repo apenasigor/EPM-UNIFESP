@@ -43,7 +43,7 @@
 
                                 <ul class="tier-2">
                                     <li class="">
-                                    <a href="{{url('/Neuromodulacao/WhitePaper')}}" title="White papers" class="destination">White papers</a> </li>
+                                        <a href="{{url('/Neuromodulacao/WhitePaper')}}" title="White papers" class="destination">White papers</a> </li>
                                 </ul>
                             </li>
                             <li class="parent-level">
@@ -53,8 +53,8 @@
 
                             <li class="parent-level">
                                 <a href="#" class="toggle-section" title="Abrir e Fechar o Menu">
-                                <i class="fa fa-plus-square-o" aria-hidden="true"></i><span class="icon-fallback">+</span>
-                                <span class="visuallyhidden">Expand Schools &amp; Divisions section</span>
+                                    <i class="fa fa-plus-square-o" aria-hidden="true"></i><span class="icon-fallback">+</span>
+                                    <span class="visuallyhidden">Expand Schools &amp; Divisions section</span>
                                 </a>
 
                                 <a href="{{url('/Diagnostico')}}" title="Diagnóstico" class="destination">Diagnóstico</a>
@@ -102,19 +102,40 @@
                     <div class="content">
                         <div class="identity-stripe" role="banner" style="margin-bottom: 10px;">
                             <div class="center force">
-                            <a class="logo-tab column" href="{{url('/')}}" title="Home" style="padding: 0 0 10px 0; ">
-                            <img src="{{asset('/images/neuroservices/logoNeuroServices.png')}}" alt="we mind - neuro services" ></a>
+                                <a class="logo-tab column" href="{{url('/')}}" title="Home" style="padding: 0 0 10px 0; ">
+                                    <img src="{{asset('/images/neuroservices/logoNeuroServices.png')}}" alt="we mind - neuroservices" ></a>
                             </div>
                         </div>
 
-
-
-                    <!--<div class="fundoimagem">
-                        <img src="{{asset('/images/neuroservices/fundohome.png')}}">
-                        </div>-->
-
+                        <div class="">
+                                    <span class="textHeader">
+                                        <!-- Para conhecer os nossos serviços e marcar uma consulta entre em contato que ligaremos em breve -->
+                                        Agende agora suas consultas e exames
+                                    </span>
+                        </div>
                         <div class="animação" style="margin-left: 0px; margin-top: -60.8371px; width: 100%; height: 600px; background-color: rgb(220, 220, 220);">
                             <div class="content">
+                                <!-- FORMULARIO DE CONTATO -->
+
+
+                                <div class="form-style-5">
+                                    <form>
+                                        <fieldset>
+                                            <!--<legend> Agende suas consultas e exames agora  </legend>-->
+                                            <input type="text" name="field1" placeholder="Nome *">
+                                            <input type="email" name="field2" placeholder="Telefone*">
+                                            <textarea name="field3" placeholder="Mensagem"></textarea>
+
+
+                                        </fieldset>
+
+                                        <input type="submit" value="Enviar" />
+                                    </form>
+                                </div>
+
+
+
+                                <!-- ANIMAÇÃO FUNDO -->
                                 <canvas id=c></canvas>
                             </div>
                         </div>
@@ -131,9 +152,6 @@
             <div id="bbTopFactsSection" class="top-facts big-section section" role="region" aria-label="Sobre nós">
                 <br><br>
                 <div class="sticky">
-                    <!--<div class="lowpolly">
-                        <img src="/images/neuroservices/lowpolly.png">
-                    </div>-->
                     <div class="center">
 
                         <div class="content force" style="padding-top: 5%;padding-bottom: 5%;">
@@ -141,54 +159,54 @@
 
                             <div class="section-intro block" data-block-id="19563">
 
-                                <p class="nossoEspecialista">Conheça nossos<br>
+                                <p class="nossoEspecialista" style="font-family: 'Merriweather', serif;">Conheça nossos<br>
                                     Especialistas </p>
                                 <p class="pServicos">A clínica Neuroservices surgiu para oferecer os mais avançados protocolos em neuromodulação, cetamina e diagnósticos biológicos em psiquiatria do país.</p>
                             </div>
-
-                            <div class="facts force">
-                                <div class="fact-1 fact column">
-
-                                    <div class="graphic">
-                                        <img src="{{asset('/images/neuroservices/Acioly.png')}}" alt="Prof. Dr. Acioly">
-                                    </div>
-                                    <!--<div class="kicker">Diretor Clínico</div>-->
-                                    <div class="fact-description">
-
-                                        <p class="nomeEquipe" style="margin-left:10px;">Diretor Clínico <br>Prof. Dr.  Acioly T. Lacerda</p>
-                                    </div>
-
+                            <style type="text/css">
+                                /* MEDIA FULL */
+                                #controladorMembros{ display: flex; justify-content: center; text-align: center; }
+                                .membro1{ width: 12em; padding: 10px;}
+                                .membro1 img{ width: 100%;}
+                                .membro1 span { color:#563f80; font-family: 'Lato', sans-serif; font-weight: 100; }
+                                .membro1 span p { font-weight: bold; color:#563f80; font-family: 'Merriweather', serif;}
+                                /* MEDIA SMART */
+                                @media only screen and (max-width : 500px){
+                                    #controladorMembros{
+                                        display: grid;
+                                    }
+                                }
+                            </style>
+                            <div id="controladorMembros">
+                                <!--  IMAGEM MEMBRO1  -->
+                                <div class="membro1">
+                                    <img src="{{asset('/images/neuroservices/Acioly.png')}}" title="Prof. Dr. Acioly T. Lacerda">
+                                    <span class="nomeMembro1">
+                                        <p>Diretor Clínico</p>Prof. Dr. Acioly T. Lacerda
+                                    </span>
                                 </div>
-                                <div class="fact-2 fact column">
-                                    <div class="graphic">
-                                        <img src="{{asset('/images/neuroservices/Alfonso.png')}}" alt="Prof. Dr. Quirino Cordeiro">
-                                    </div>
-                                    <!-- <div class="kicker">Diretor Executivo</div> -->
-                                    <div class="fact-description">
-                                        <p class="nomeEquipe" style="margin-left:20px;">Diretor Executivo<br> Dr. Alfonso A. Massaguer</p>
-                                    </div>
+                                <!--  IMAGEM MEMBRO2  -->
+                                <div class="membro1">
+                                    <img src="{{asset('/images/neuroservices/Alfonso.png')}}" title="Dr. Alfonso A. Massaguer">
+                                    <span class="nomeMembro1">
+                                        <p>Diretor Executivo</p>Dr. Alfonso A. Massaguer
+                                    </span>
                                 </div>
-
-                                <div class="fact-3 fact column">
-                                    <div class="graphic2">
-                                        <img src="{{asset('/images/neuroservices/alvaro.png')}}" alt="Prof. Dr. Quirino Cordeiro">
-                                    </div>
-                                    <!-- <div class="kicker">Diretor Executivo</div> -->
-                                    <div class="fact-description">
-                                        <p class="nomeEquipe-alvaro">Diretor Científico<br> Prof. Dr. Álvaro Machado Dias</p>
-                                    </div>
+                                <!--  IMAGEM MEMBRO3  -->
+                                <div class="membro1">
+                                    <img src="{{asset('/images/neuroservices/alvaro.png')}}" title="Prof. Dr. Álvaro M. Dias">
+                                    <span class="nomeMembro1">
+                                        <p>Diretor Científico</p>Prof. Dr. Álvaro M. Dias
+                                    </span>
                                 </div>
-
-
 
                             </div>
-                           <br><br><br><br>
-                        </div>
 
+                        </div>
+                        <hr width="70%" color="#ccc" style="margin-bottom: 40px;">
                     </div>
                 </div>
             </div>
-
 
             <div id="bbDivisionsSection" class="divisions big-section section" role="region" aria-label="Areas de atuação">
                 <div class="sticky">
@@ -196,14 +214,14 @@
                         <div class="content force" style="padding-top: 6%; padding-bottom: 6%;">
                             <div class="section-intro block" data-block-id="19403">
 
-                                <h3 class="servicosh3"> Serviços </h3>
+                                <h3 class="servicosh3" style="font-family: 'Merriweather', serif;"> Serviços </h3>
 
                                 <p class="pServicos">Nossos cientistas e pesquisadores clínicos são especialistas em<br>
                                     neuromodulação e diagnóstico. Conheça as diferentes técnicas com as quais<br>
                                     trabalhamos.</p>
 
 
-              </div>
+                            </div>
                             <div class="divisions-container column force">
 
 
@@ -248,7 +266,7 @@
                                     <div style="top: 50%; left: 50%;" class="jhu division bubble column shrink">
                                         <span class="text styleText" style="left: 10%;"> NeuroServices</span>
                                     </div>
-                                    <a href="{{url("/linhasdepesquisa/Genetica")}}" >
+                                    <a href="{{url("/Diagnostico/Biologico")}}" >
                                         <button
                                                 style="top: 80%;
                                                 left: 56%;
@@ -258,12 +276,12 @@
                                         </button>
                                     </a>
 
-                                    <a href="{{url("/linhasdepesquisa/Neurofeedback")}}" >
+                                    <a href="{{url("/Cetamina")}}" >
                                         <button style="top: 13%; left: 30%; cursor: pointer;" class="division bubble button column bubble-2 school-of-public-health ">
                                             <span class="text">Cetamina</span>
                                         </button>
                                     </a>
-                                    <a href="{{url("/linhasdepesquisa/rTMS")}}" >
+                                    <a href="{{url("/Diagnostico/Biologico")}}" >
                                         <button
                                                 style="
                                                 top: 34%;
@@ -272,7 +290,7 @@
                                             <span class="text">Endofenótipos</span>
                                         </button>
                                     </a>
-                                    <a href="{{url("/linhasdepesquisa/TNS")}}" >
+                                    <a href="{{url("/Diagnostico/Clinico")}}" >
                                         <button style="
                                         top: 35%;
                                         left: 80%;
@@ -280,16 +298,16 @@
                                             <span class="text">Diagnóstico psiquiátrico</span>
                                         </button>
                                     </a>
-                                    <a href="{{url("/linhasdepesquisa/TDCS")}}" > <button style="top: 11%; left: 70%; cursor: pointer;" class="division bubble button column bubble-8 school-of-medicine ">
+                                    <a href="{{url("/Neuromodulacao")}}" > <button style="top: 11%; left: 70%; cursor: pointer;" class="division bubble button column bubble-8 school-of-medicine ">
                                             <span class="text"> Neuromodulação </span>
                                         </button>
                                     </a>
-                                    <a href="{{url("/linhasdepesquisa/EyeTracking")}}" >
+                                    <a href="{{url("/Diagnostico/Biologico")}}" >
                                         <button style="top: 66%; left: 30%; cursor: pointer;" class="division bubble button column bubble-9 school-of-nursing ">
                                             <span class="text">Mapeamento cerebral</span>
                                         </button>
                                     </a>
-                                    <a href="{{url("/linhasdepesquisa/Eletrofisiologia")}}" >
+                                    <a href="{{url("/Diagnostico/Clinico")}}" >
                                         <button style="top: 78%; left: 76%;" class="division bubble button column bubble-10 school-of-engineering ">
                                             <span class="text"> Neuropsicologia</span>
                                         </button>
@@ -309,8 +327,8 @@
                     <div class="identification column force">
                         <a class="footer-logo column" href="{{url('/')}}" style="margin-right: 0px;">
 
-                         <img class="horizontal-logo center" src="{{asset('/images/neuroservices/logoneuroservices.png')}}" alt="We-Mind - NeuroServices" >
-                         <img class="vertical-logo center" src="{{asset('/images/neuroservices/logoneuroservices.png')}}" alt="We-Mind - NeuroServices">
+                            <img class="horizontal-logo center" src="{{asset('/images/neuroservices/logoneuroservices.png')}}" alt="We-Mind - NeuroServices" >
+                            <img class="vertical-logo center" src="{{asset('/images/neuroservices/logoneuroservices.png')}}" alt="We-Mind - NeuroServices">
                         </a>
                         <ul class="contact column">
                             <li class="university-name">We Mind NeuroServices</li>
@@ -325,7 +343,7 @@
                     <div class="nav column force">
                         <a id="search"></a>
 
-                                                <a id="menu"></a>
+                        <a id="menu"></a>
                         <ul class="site-tree column tier-1">
                             <li class="parent-level">
                                 <a href='#' class='toggle-section' title='Expand About Us section'>
@@ -364,13 +382,14 @@
                 </div>
             </div>
         </div>
+
         <!--googleon: all-->
         <script>
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;
                 i[r] = i[r] || function () {
-                            (i[r].q = i[r].q || []).push(arguments)
-                        }, i[r].l = 1 * new Date();
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
                 a = s.createElement(o), m = s.getElementsByTagName(o)[0];
                 a.async = 1;
                 a.src = g;

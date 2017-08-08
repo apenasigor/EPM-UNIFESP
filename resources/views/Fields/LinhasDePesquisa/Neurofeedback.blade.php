@@ -103,13 +103,13 @@
                         <div class="identity-stripe" role="banner" style="margin-bottom: 10px;">
                             <div class="center force">
                                 <a class="logo-tab column" href="{{url('/')}}" title="Home" style="padding: 0 0 10px 0; ">
-                                    <img src="{{asset('/images/neuroservices/logoNeuroServices.png')}}" alt="we mind - neuro services" ></a>
+                                    <img src="{{asset('/images/neuroservices/logoNeuroServices.png')}}" alt="we mind - neuroservices" ></a>
                             </div>
                         </div>
 
                         <div class="">
                                     <span class="textHeader">
-
+                                        <!-- Para conhecer os nossos serviços e marcar uma consulta entre em contato que ligaremos em breve -->
                                         Agende agora suas consultas e exames
                                     </span>
                         </div>
@@ -180,21 +180,21 @@
                             <div id="controladorMembros">
                                 <!--  IMAGEM MEMBRO1  -->
                                 <div class="membro1">
-                                    <img src="{{asset('/images/neuroservices/Acioly.png')}}">
+                                    <img src="{{asset('/images/neuroservices/Acioly.png')}}" title="Prof. Dr. Acioly T. Lacerda">
                                     <span class="nomeMembro1">
                                         <p>Diretor Clínico</p>Prof. Dr. Acioly T. Lacerda
                                     </span>
                                 </div>
                                 <!--  IMAGEM MEMBRO2  -->
                                 <div class="membro1">
-                                    <img src="{{asset('/images/neuroservices/Alfonso.png')}}">
+                                    <img src="{{asset('/images/neuroservices/Alfonso.png')}}" title="Dr. Alfonso A. Massaguer">
                                     <span class="nomeMembro1">
                                         <p>Diretor Executivo</p>Dr. Alfonso A. Massaguer
                                     </span>
                                 </div>
                                 <!--  IMAGEM MEMBRO3  -->
                                 <div class="membro1">
-                                    <img src="{{asset('/images/neuroservices/alvaro.png')}}">
+                                    <img src="{{asset('/images/neuroservices/alvaro.png')}}" title="Prof. Dr. Álvaro M. Dias">
                                     <span class="nomeMembro1">
                                         <p>Diretor Científico</p>Prof. Dr. Álvaro M. Dias
                                     </span>
@@ -382,6 +382,7 @@
                 </div>
             </div>
         </div>
+
         <!--googleon: all-->
         <script>
             (function (i, s, o, g, r, a, m) {

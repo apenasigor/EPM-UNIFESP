@@ -53,6 +53,11 @@
     <link rel="stylesheet" type="text/css" href="{{asset('/css/brainanim.css')}}">
     <link rel="stylesheet" href="{{asset('/css/base-e1f1a1c0a0.css')}}">
     <link rel="stylesheet" href="{{asset('/css/home-c67872ce6d.css')}}">
+
+
+
+
+
     <style>
         .alert-on .identity-stripe {
             border-top-color: #2C2C33;
@@ -419,7 +424,7 @@
     ctx.fillRect( 0, 0, w, h );
     ctx.fillStyle = '#51417d';
     ctx.font = '50px Verdana';
-    ctx.fillText( 'Calculating Nodes', w / 2 - ctx.measureText( 'Calculating Nodes' ).width / 2, h / 2 - 15 );
+    ctx.fillText( 'NeuroServices', w / 2 - ctx.measureText( 'NeuroServices' ).width / 2, h / 2 - 15 );
 
     window.setTimeout( init, 4 ); // to render the loading screen
 
