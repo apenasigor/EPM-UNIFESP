@@ -79,33 +79,33 @@ Route::get('/sobrenos/estrategia', function(){
 | Linhas de Pesquisa
 |--------------------------------------------------------------------------
 */
-Route::get('/linhasdepesquisa', function(){
+Route::get('/Neuromodulacao', function(){
     $papers = Paper::orderBy('name', 'asc')->get();
 
-    return view('Fields.linhasdepesquisa', [
+    return view('Fields.Neuromodulacao', [
         'papers' => $papers
     ]);
 });
-    Route::get('/linhasdepesquisa/TNS', function(){
+    Route::get('/Neuromodulacao/WhitePaper', function(){
         $papers = Paper::orderBy('name', 'asc')->get();
 
-        return view('Fields.LinhasDePesquisa.TNS', [
+        return view('Fields.LinhasDePesquisa.WhitePaper', [
             'papers' => $papers
         ]);
     });
     
-    Route::get('/linhasdepesquisa/rTMS', function(){
+    Route::get('/Diagnostico/Clinico', function(){
         $papers = Paper::orderBy('name', 'asc')->get();
 
-        return view('Fields.LinhasDePesquisa.rTMS', [
+        return view('Fields.LinhasDePesquisa.Clinico', [
             'papers' => $papers
         ]);
     });
     
-    Route::get('/linhasdepesquisa/TDCS', function(){
+    Route::get('/Diagnostico/Biologico', function(){
         $papers = Paper::orderBy('name', 'asc')->get();
 
-        return view('Fields.LinhasDePesquisa.TDCS', [
+        return view('Fields.LinhasDePesquisa.Biologico', [
             'papers' => $papers
         ]);
     });
@@ -152,10 +152,10 @@ Route::get('/linhasdepesquisa', function(){
     });
     
     
-    Route::get('/linhasdepesquisa/Genetica', function(){
+    Route::get('/Diagnostico', function(){
         $papers = Paper::orderBy('name', 'asc')->get();
 
-        return view('Fields.LinhasDePesquisa.Genetica', [
+        return view('Fields.LinhasDePesquisa.Diagnostico', [
             'papers' => $papers
         ]);
     });
@@ -175,11 +175,11 @@ Route::get('/linhasdepesquisa', function(){
 | Pessoas
 |--------------------------------------------------------------------------
 */
-Route::get('/pessoas', function(){
+Route::get('/Cetamina', function(){
     $papers = Paper::orderBy('name', 'asc')->get();
     $researchers = Researcher::orderBy('name','asc')->get();
 
-    return view('People.pessoas', [
+    return view('People.Cetamina', [
         'researchers' => $researchers,
         'papers' => $papers
     ]);
